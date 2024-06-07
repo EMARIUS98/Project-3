@@ -46,6 +46,8 @@ Targeted customer retention strategies, especially for high churn risk customers
 Enhancing service offerings, such as international plans and call durations, can also help. Continuous monitoring and retraining with updated data are recommended to ensure model effectiveness.
 
 
+PRESENTATION: https://docs.google.com/presentation/d/1Vh3gVzYZm1DrjEq-J4UMNEM0qf0tdG0g/edit?usp=sharing&ouid=116677781127272109482&rtpof=true&sd=true
+
 **RESORCES**
 https://www.datacamp.com/tutorial/python-tips-examples?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720824&utm_adgroupid=157156376311&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=684592140434&utm_targetid=dsa-2218886984100&utm_loc_interest_ms=&utm_loc_physical_ms=1009824&utm_content=&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p2_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na&gad_source=1&gclid=EAIaIQobChMIz_Pzg7rJhgMVT6ODBx0SZxt3EAAYASAAEgJVz_D_BwE
 
