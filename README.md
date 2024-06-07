@@ -15,28 +15,21 @@ DATA PROCESSING & MODELING
 -One-hot encoding:  this converts categorical variables into numerical format for machine learning algorithms, especially useful for dealing with variables with multiple categories.
 -Resample function: ensures a fairer representation of data and potentially enhancing the model's performance in handling imbalanced datasets
 
-DATA PROCESSING & MODELING
-Modeling:The SyriaTel Customer Churn project aims to develop a classifier that predicts customer churn based on call usage, account details, and customer service interactions, using machine learning techniques to accurately predict outcomes for unseen data.
+Modeling: 
+The SyriaTel Customer Churn project aims to develop a classifier that predicts customer churn based on call usage, account details, and customer service interactions, using machine learning techniques to accurately predict outcomes for unseen data.
 
-
-DATA PROCESSING & MODELING
 Logistic Regression: 
 Despite having an accuracy of 85%, the logistic regression model's recall and precision for predicting churn are both poor at 18% and 58%, respectively, suggesting a large miss of actual churn cases. The model might not be the best option for this classification assignment, according to these results..
 
-
-DATA PROCESSING & MODELING
 Random Forests
 The model exhibits high accuracy at 93.7%, with high precision, recall, and F1-score in the majority class ('False'). However, it tends to miss some 'True' samples, with a lower recall at 60%. The weighted averages show robust performance across both classes.
 
-DATA PROCESSING & MODELING
 This XGBoost model demonstrates high precision, indicating that when it predicts a customer will churn (True), it is correct 96% of the time. However, its recall for churn is lower at 77%
 
-DATA PROCESSING & MODELING
 The ROC AUC score of 0.93 for both models demonstrates strong discriminatory power, reducing false positives and false negatives, indicating their ability to accurately capture data patterns and provide well-informed predictions across various threshold values, thereby enhancing their reliability in classification tasks.
 Hyperparameter Tuning:
 We are going to select the two best performing models and tune them
 
-DATA PROCESSING & MODELING
 Evaluation Metrics
 XGBoost vs Random Forest Evaluation
 XGBoost outperformed Random Forest in accuracy, recall, and F1-score.
@@ -44,7 +37,6 @@ XGBoost achieved a higher accuracy (0.9610) than Random Forest (0.9415).
 Random Forest had a perfect precision (1.0000), indicating all positive predictions were correct.
 XGBoost's higher recall (0.7723) indicates its ability to identify more true positives.
 
-DATA PROCESSING & MODELING
 Feature selection is crucial in enhancing model performance, reducing overfitting, and improving interpretability. Prioritizing informative features simplifies the model, reduces computational costs, and may improve predictive accuracy.
 
 CONCLUSION & RECOMENDATION
